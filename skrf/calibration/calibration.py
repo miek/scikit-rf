@@ -75,6 +75,7 @@ Generic Methods
 
    terminate
    unterminate
+   compute_switch_terms
    determine_line
 
 PNA interaction
